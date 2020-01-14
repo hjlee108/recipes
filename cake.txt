@@ -1,4 +1,5 @@
-egg
+
+1cup egg
 milk
 flour
 chocolate
